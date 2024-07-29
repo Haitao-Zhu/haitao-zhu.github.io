@@ -24,7 +24,7 @@ subtitle                 : "A fun place"
 name                     : "Haitao Zhu"
 description              : "A CI/CD project for Haitao's front end exploration"
 url                      : "https://haitao-zhu.github.io"
-baseurl                  : "/haitao-zhu.github.io" # the subpath of your site, e.g. /blog
+baseurl                  : "" # the subpath of your site, e.g. /blog
 repository               : "Haitao-Zhu/haitao-zhu.github.io"
 words_per_minute         : 200
 
